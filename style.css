@@ -1,0 +1,43 @@
+*{
+    background-color: antiquewhite;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+
+
+}
+
+
+.namebar{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(115, 52, 173);
+    display: flex;
+    justify-content: space-between;
+}
+
+.name{
+    font-size: 100px;
+    font-weight: 300;
+    text-decoration: underline;
+    text-decoration: bold;
+    background-color: rgb(115, 52, 173);
+    color: rgb(255, 145, 0);
+
+}
+
+
+.logoborder{
+    height: 250px;
+    width: 300px;
+    margin: 10px ;
+}
+
+.logo{
+    background-image: url("https://image.similarpng.com/very-thumbnail/2022/01/Medical-health-logo-design-on-transparent-background-PNG.png");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+
+}
+
